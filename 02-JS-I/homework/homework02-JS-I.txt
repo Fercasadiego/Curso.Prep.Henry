@@ -1,0 +1,9 @@
+*variables:es la manera o forma en la que podemos almacenar algo o guardarlo para usarlo luego
+
+*string:es un bloque o conjunto de texto que se guarda entre comillas, lo podemos utilizar para realiazar muchas operaciones
+
+*funciones: las funciones nos permiten agrupar codigos que podremos utilizar o ejecutar luego muchas veces
+
+*Declaraciones (iF): la palabra if nos peremite comprobar si algo es verdadero o true
+
+*valores booleanos: significa que tenemos 2 tipos de opciones, como por ejemplo "si" o "no", "afirmativo" o "negativo", "verdadero! o "falso", etc.
